@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },
+    {
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },
+    {
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },{
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },{
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },
+    {
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    },{
+    "users":5,
+      "id": 1,
+      "name": "Product001",
+      "cost": 10.0,
+      "quantity": 1000,
+      "locationId" : 1,
+      "familyId" : 1
+    }
+    ]
+}
